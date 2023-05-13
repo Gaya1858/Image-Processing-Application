@@ -22,7 +22,8 @@
     git add .gitattributes
     git add .
     git commit -m "Add MNIST dataset"
-    git push origin main ```
+    git push origin main 
+    ```
  
  * Add your .ubyte files to your Git repository and commit the changes.
  
