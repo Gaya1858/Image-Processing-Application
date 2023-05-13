@@ -7,10 +7,10 @@
 * 1.Install Git LFS by following the instructions for your operating system here.
 * 2.Once Git LFS is installed, navigate to your Git repository and run the following command to initialize Git LFS for your repository:
 
-    ``` git lfs install 
+    ``` 
+    git lfs install 
     git lfs track "*.ubyte"
-    
-
+   
     ```
 
 * In the root directory of your repository, create a .gitattributes file and add the following line to it:
