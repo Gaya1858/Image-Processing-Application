@@ -6,3 +6,7 @@
 * Dataset
 
     [Dataset_Details](./Dataset_details.md)</br>
+* Loading, preprocessing and modeling 
+
+    [Data_processing](./dataprocess.md)</br>
+   
